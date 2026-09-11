@@ -30,9 +30,9 @@ export const Route = createFileRoute("/")({
 });
 
 const timeline = [
-  { year: "2024", title: "El día que nos conocimos", text: "Me sentia solo, un nuevo colegio, sin nadie con quien hablar hasta que te conoci." },
-  { year: "2024", title: "El día que todo cambió", text: "Cuando nos comenzamos a acercar mas, que me dejabas darte besos en la mejilla era lo mejor." },
-  { year: "2025", title: "Nuestra primera tormenta", text: "Cuando por culpa de ese reto se alejo nuestra amistad fue algo que me dolio mucho." },
+  { year: "2026", title: "El día que nos conocimos", text: "Estaba mirando TikTok hasta que me llego la notificacion de seguido y acepte el seguido, aun me acuerdo como me comenzaste a hablar con un simple Hola cambiaste mi vida." },
+  { year: "2026", title: "Como nos acercamos", text: "Cuando nos comenzamos a acercar mas, me contabas sobre Kpop, tus gustos, tu musica y me di cuenta de tu hermosa forma de ser." },
+  { year: "2026", title: "El dia que todo cambió", text: "Cuando un mensaje de Me gustas cambio toda nuestra relacion a algo mas hermoso que ha iluminado mi vida de una forma maravillosa." },
   { year: "2026", title: "El juramento", text: "En el que apesar de todo, estaremos juntos." },
 ];
 
@@ -41,8 +41,8 @@ const reasons = [
   { icon: Swords, title: "Por cómo peleas por lo tuyo", text: "Nadie te quita lo que es tuyo." },
   { icon: Moon, title: "Por la calma que me das", text: "Me das una tranquilidad, paz y confort que en ningun otro lado consigo." },
   { icon: Heart, title: "Por tu forma de amar", text: "Tan unica y hermosa." },
-  { icon: Flame, title: "Por el fuego que enciendes", text: "Como con un beso me haces sentir el chico mas feliz del mundo." },
-  { icon: Sparkles, title: "Por ser mi hogar", text: "Siempre me siento seguro y tranquilo cuando estoy a tu lado." },
+  { icon: Flame, title: "Por el fuego que enciendes", text: "Como con un mensaje de TE AMO me hace sentir el chico mas feliz del mundo." },
+  { icon: Sparkles, title: "Por ser mi hogar", text: "Siempre me siento seguro y feliz cuando hablo contigo." },
 ];
 
 function LoveLetter() {
@@ -161,13 +161,13 @@ function LoveLetter() {
               <WingDivider className="mx-auto w-56 text-gold/60" />
               <div className="mt-10 space-y-6 font-script text-lg leading-[1.9] text-bone/85 sm:text-xl">
                 <p className="first-letter:float-left first-letter:mr-3 first-letter:font-display first-letter:text-6xl first-letter:leading-none first-letter:text-gold">
-                  Mi vida antes que llegaras estaba lleno de problemas familiares, sin ganas de estudiar, 0 amistades y una soledad inmensa, hasta que llegaste e iluminaste los dias mas oscuros que vivi.
+                  Mi vida antes que llegaras estaba lleno de estres, sin ganas de trabajar, sin ganas de estudiar, pocas amistades y una soledad inmensa, hasta que llegaste e iluminaste los dias mas oscuros que vivi.
                 </p>
                 <p>
                   Amo la forma como siempre le pones ganas a todas las cosas incluso si no quieres hacerlas, como eres tan valiente y respetuosa con todos, como siempre me haces sentir seguro y comodo a tu lado.
                 </p>
                 <p>
-                  Por el momento, no creo que podamos ser pareja, pero aun asi, estar a tu lado, abrazarte y hablarte, me genera una felicidad inmensa.
+                  Por el momento, tenemos que esperar a que logre ser mayor de edad asi te podre visitar, pero cada dia que hablo contigo, mi amor crece mas y mas.
                 </p>
               </div>
 
