@@ -254,7 +254,7 @@ function LoveLetter() {
             <div className="mx-auto mt-12 w-40 gold-rule" />
             <p className="mt-6 font-script text-2xl text-gold">Tu querido Luis</p>
             <p className="mt-1 font-display text-[0.65rem] tracking-[0.45em] text-muted-foreground uppercase">
-              11 · Agosto · 2026
+              10 · Septiembre · 2026
             </p>
           </Reveal>
         </div>
